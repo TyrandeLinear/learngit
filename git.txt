@@ -33,4 +33,3 @@ function rec  () {
        <input type="button" onclick="show()" value="显示内容" /> 
     </form>
 </body> 
-</html>
